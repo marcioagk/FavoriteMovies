@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FavoriteMovies</string>
+
+    <!-- Main -->
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="my_favorite_movies">My Favorite Movies</string>
+    <string name="error_message">An error has occurred.</string>
+
+    <!-- Movie Details -->
+    <string name="movie_details">Movie Details</string>
+    <string name="header_original_title">Original Title</string>
+    <string name="header_overview">Overview:</string>
+    <string name="header_vote_average">Vote Average:</string>
+    <string name="header_release_date">Release Date:</string>
+
+    <!-- Movie Reviews -->
+    <string name="reviews">Reviews</string>
+    <string name="written_by">Written by %s</string>
+    
+    <!-- Trailer List -->
+    <string name="trailer">Trailer</string>
+    <string name="trailers">Trailers</string>
+    <string name="trailer_name">Trailer Name</string>
+
+    <!-- Tools : Text -->
+    <string name="long_text_example">This is only an example. This is only an example. This is only an example.</string>
+    <string name="date_format_example">YYYY-MM-DD</string>
+    <string name="vote_average_example">7.5</string>
+</resources>

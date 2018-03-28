@@ -1,0 +1,8 @@
+######################################
+###### FAVORITE MOVIES - README ######
+######################################
+
+Please, insert your API Key of movie database at the string constant "API_KEY" before running the Project.
+File: FavoriteMovies/app/src/main/java/com/example/android/favoritemovies/MainActivity.java (line 54)
+
+PS: You also can find the "API_KEY" using TODO tab.
